@@ -1,0 +1,28 @@
+{
+  "name": "basic-rest-server",
+  "version": "1.0.0",
+  "description": "simple endpoint for dev (based on JSON-SERVER package)",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmboyce/twitch-2-server.git"
+  },
+  "keywords": [
+    "rest",
+    "json",
+    "test"
+  ],
+  "author": "paul boyce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulmboyce/twitch-2-server/issues"
+  },
+  "homepage": "https://github.com/paulmboyce/twitch-2-server#readme"
+}
