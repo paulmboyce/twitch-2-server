@@ -16,7 +16,7 @@
     "husky": "^4.3.6"
   },
   "scripts": {
-    "test": "test"
+    "start": "json-server --watch db.json --port 3004"
   },
   "repository": {
     "type": "git",
